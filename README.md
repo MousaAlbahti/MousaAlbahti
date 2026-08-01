@@ -1,6 +1,6 @@
 ### Hi there, I'm Mousa Albahti! 👋
 
-I'm a **Software Engineer** passionate about building high-performance systems and scalable web applications. I bridge the gap between low-level logic (C++) and modern enterprise solutions (.NET & MERN).
+I'm a **Software Engineer** passionate about building high-performance systems and scalable web applications. I bridge the gap between low-level logic (C++) and modern enterprise solutions ( MERN).
 
 - 🔭 I’m currently specializing in **MERN Stack Development** at **DOT Jordan (USAID Scholarship)**.
 - 💻 My core expertise: **C++ Algorithms**, **.NET Core**, and **System Architecture**.
